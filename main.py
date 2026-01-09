@@ -1,4 +1,5 @@
 # main.py
+# Connected to all
 
 from src.expense import Expense
 from src.file_manager import load_expenses, save_expense
